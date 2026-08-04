@@ -1,0 +1,7 @@
+.DS_Store
+website.zip
+_bmad-output/
+.claude/
+.claude-flow/
+_bmad/config.user.toml
+*.log
